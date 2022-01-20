@@ -1,2 +1,2 @@
 # Story
-A collection of UI Designs I've made over various projects!
+Some UI's I've made for various projects...
